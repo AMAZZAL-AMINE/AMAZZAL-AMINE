@@ -1,4 +1,4 @@
-### Hi there I'm Mohamed Med Amine Amazzal 👋
+### Hi there 👋 I'm Mohamed Med Amine Amazzal 
 
 - ‍👨‍💻 being software engineer At 1337 inshallah
 - 🔭 I’m currently working on DNS
