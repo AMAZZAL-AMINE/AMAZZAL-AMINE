@@ -8,4 +8,4 @@
 - 📫 How to reach me: amineamazzal2000@gmail.com
 - ⚡ Fun fact: All Times Talk To Machins
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMAZZAL-AMINE&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMAZZAL-AMINE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
