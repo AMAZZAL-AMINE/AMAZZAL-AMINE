@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm  Med Amine Amazzal.
-######Full stack Developer. Love Coffee, Hiking, Nature and Learning new Things.
+####Full stack Developer. Love Coffee, Hiking, Nature and Learning new Things.
 
 - ‍👨‍💻 being software engineer At 1337 inshallah
 - 🔭 I’m currently working on DNS
