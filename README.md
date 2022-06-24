@@ -1,32 +1,5 @@
-
-## Links
-
-<p align="center">
-  <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
-  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://medium.com/@matyo91"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="https://stackoverflow.com/users/4027349/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
-</p>
-
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=AMAZZAL-AMINE" alt="visitor badge"/>
-</p>
-
-
-
-
-
-
-
-
-
-
 ### Hi there 👋 I'm  Med Amine Amazzal.
-  Full stack Developer. Love Coffee, Hiking, Nature and Learning new Things.
+######Full stack Developer. Love Coffee, Hiking, Nature and Learning new Things.
 
 - ‍👨‍💻 being software engineer At 1337 inshallah
 - 🔭 I’m currently working on DNS
