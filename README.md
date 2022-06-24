@@ -1,24 +1,3 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Amine 👋 I'm a 🚀 Software 🚀 I ❤️ To Talk To Machins ">
-</p>
-
-<!--
-How to make this gif ?
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
-Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
--->
-
-## Blog
-
-<!-- BLOG-POST-LIST:START -->
-- [Crypto Tracker](https://blog.darkwood.fr/article/crypto-tracker)
-- [Self-host n8n with AWS Lightsail, pm2 and caddy server](https://blog.darkwood.fr/article/self-host-n8n-with-aws-lightsail-pm2-and-caddy-server)
-- [Vie privée Numérique](https://blog.darkwood.fr/article/vie-privee-numerique)
-- [Les Monades et leur utilisation en PHP](https://blog.darkwood.fr/article/les-monades-et-leur-utilisation-en-php)
-- [Hackathon no-code de la French Tech Grande Provence](https://blog.darkwood.fr/article/hackathon-no-code-de-la-french-tech-grande-provence)
-<!-- BLOG-POST-LIST:END -->
 
 ## Links
 
