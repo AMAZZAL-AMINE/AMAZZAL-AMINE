@@ -7,3 +7,5 @@
 - 💬 Ask me about anything in Web & Mobile Dev 
 - 📫 How to reach me: amineamazzal2000@gmail.com
 - ⚡ Fun fact: All Times Talk To Machins
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
