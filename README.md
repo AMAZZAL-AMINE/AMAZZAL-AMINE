@@ -9,4 +9,4 @@
 - ⚡ Fun fact: All Times Talk To Machins
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMAZZAL-AMINE&show_icons=true&theme=radical)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AMAZZAL-AMINE&repo=github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
