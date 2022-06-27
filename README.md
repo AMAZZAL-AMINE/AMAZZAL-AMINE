@@ -40,12 +40,7 @@
       </a>
       <br>Html
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
+
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
@@ -72,18 +67,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
@@ -109,11 +92,6 @@
       <br>Rest Api
     </td>
 
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://icons-for-free.com/download-icon-css3+html5+js+logo+script+icon-1320184808782185763_512.png" width="48" height="48" alt="css" />
-      </a>
-      <br>Css 3
-    </td>
+
   </tr>
 </table>
