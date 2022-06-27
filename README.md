@@ -18,15 +18,15 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="[./img/csharp-original.svg](https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png)" width="48" height="48" alt="C#" />
+        <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" width="48" height="48" alt="C" />
       </a>
-      <br>C(Core)
+      <br>C
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="[./img/python-original.svg](https://cms-assets.tutsplus.com/uploads/users/1251/posts/31766/preview_image/php-tutsplus.png)" width="48" height="48" alt="php" />
       </a>
-      <br>Python
+      <br>PHP
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
