@@ -24,7 +24,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="http://assets.stickpng.com/images/58481791cef1014c0b5e4994.png" width="48" height="48" alt="php" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="48" height="48" alt="php" />
       </a>
       <br>PHP
     </td>
@@ -72,12 +72,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
@@ -98,27 +92,28 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://logowiki.net/uploads/logo/m/mysql-6.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="48" height="48" alt="nodejs" />
       </a>
-      <br>Grafana
+      <br>Nodejs
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="https://zooz.github.io/predator/images/restapi.png" width="48" height="48" alt="Rest Api" />
       </a>
-      <br>Prometheus
+      <br>Rest Api
     </td>
+
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+        <img src="https://icons-for-free.com/download-icon-css3+html5+js+logo+script+icon-1320184808782185763_512.png" width="48" height="48" alt="css" />
       </a>
-      <br>Thanos
+      <br>Css 3
     </td>
   </tr>
 </table>
